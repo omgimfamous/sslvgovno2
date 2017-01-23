@@ -1,0 +1,3234 @@
+# BFF
+
+"PO-Creation-Date: 2016-04-01 14:35:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "<a [link_login]>Войдите</a> или <a [link_register]>зарегистрируйтесь</a>"
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "E-mail адрес указан некорректно"
+msgstr ""
+
+msgid "ICQ"
+msgstr ""
+
+msgid "Skype"
+msgstr ""
+
+msgid "[symbols] осталось"
+msgstr ""
+
+msgctxt "admin"
+msgid "ID"
+msgstr ""
+
+msgctxt "admin"
+msgid "Keyword"
+msgstr ""
+
+msgctxt "admin"
+msgid "bbs.import|добавлено: [count]"
+msgstr ""
+
+msgctxt "admin"
+msgid "bbs.import|обновлено: [count]"
+msgstr ""
+
+msgctxt "admin"
+msgid "bbs.import|пропущено: [count]"
+msgstr ""
+
+msgctxt "admin"
+msgid "bbs|Бизнес"
+msgstr ""
+
+msgctxt "admin"
+msgid "bbs|Частное лицо"
+msgstr ""
+
+msgctxt "admin"
+msgid "bbs|объявление;объявления;объявлений"
+msgstr ""
+
+msgctxt "admin"
+msgid "filter|Торг возможен"
+msgstr ""
+
+msgctxt "admin"
+msgid "filter|Цена"
+msgstr ""
+
+msgctxt "admin"
+msgid "geo|Метро"
+msgstr ""
+
+msgctxt "admin"
+msgid "geo|Области"
+msgstr ""
+
+msgctxt "admin"
+msgid "geo|Страна"
+msgstr ""
+
+msgctxt "admin"
+msgid "geo|все"
+msgstr ""
+
+msgctxt "admin"
+msgid "geo|добавить страну"
+msgstr ""
+
+msgctxt "admin"
+msgid "geo|основной"
+msgstr ""
+
+msgctxt "admin"
+msgid "geo|список городов"
+msgstr ""
+
+msgctxt "admin"
+msgid "geo|список областей(регионов)"
+msgstr ""
+
+msgctxt "admin"
+msgid "geo|станции"
+msgstr ""
+
+msgctxt "admin"
+msgid "geo|только основные"
+msgstr ""
+
+msgctxt "admin"
+msgid "site|Укажите имя файла"
+msgstr ""
+
+msgctxt "admin"
+msgid "site|Указанное имя файла уже используется. Пожалуйста, укажите другое."
+msgstr ""
+
+msgctxt "admin"
+msgid "tags|Введите название тега..."
+msgstr ""
+
+msgctxt "admin"
+msgid "tags|Заменить на"
+msgstr ""
+
+msgctxt "admin"
+msgid "tags|Название"
+msgstr ""
+
+msgctxt "admin"
+msgid "users|Выберите пользователей"
+msgstr ""
+
+msgctxt "admin"
+msgid "users|Доступ заблокирован по причине:<br />[reason]"
+msgstr ""
+
+msgctxt "admin"
+msgid "users|Новый пароль слишком короткий"
+msgstr ""
+
+msgctxt "admin"
+msgid "users|Ошибка подтверждения пароля"
+msgstr ""
+
+msgctxt "admin"
+msgid "users|Пожалуйста для поля <strong>логин</strong> используйте символы A-Z,a-z,0-9,_"
+msgstr ""
+
+msgctxt "admin"
+msgid "users|Текущий пароль указан некорректно"
+msgstr ""
+
+msgctxt "admin"
+msgid "users|Удалено: [cnt]."
+msgstr ""
+
+msgctxt "admin"
+msgid "users|Укажите логин"
+msgstr ""
+
+msgctxt "admin"
+msgid "users|Укажите текущий пароль"
+msgstr ""
+
+msgctxt "admin"
+msgid "users|Указанный логин уже существует, укажите другой"
+msgstr ""
+
+msgctxt "admin"
+msgid "Действие"
+msgstr ""
+
+msgctxt "admin"
+msgid "Название"
+msgstr ""
+
+msgctxt "admin"
+msgid "Отмена"
+msgstr ""
+
+msgctxt "admin"
+msgid "Редактировать"
+msgstr ""
+
+msgctxt "admin"
+msgid "Сохранить"
+msgstr ""
+
+msgctxt "admin"
+msgid "Удалить"
+msgstr ""
+
+msgctxt "admin"
+msgid "день;дня;дней"
+msgstr ""
+
+msgctxt "admin"
+msgid "добавить"
+msgstr ""
+
+msgctxt "admin"
+msgid "список пуст"
+msgstr ""
+
+msgid "bbs.import|Блокировка пользователя"
+msgstr ""
+
+msgid "bbs.import|Выберите категорию"
+msgstr ""
+
+msgid "bbs.import|Для возможности импорта объявлений <a [open_link]>откройте магазин</a>."
+msgstr ""
+
+msgid "bbs.import|Заголовок объявления"
+msgstr ""
+
+msgid "bbs.import|Импорт объявлений"
+msgstr ""
+
+msgid "bbs.import|Импортирование объявлений было успешно инициировано"
+msgstr ""
+
+msgid "bbs.import|Импортировать"
+msgstr ""
+
+msgid "bbs.import|История импорта"
+msgstr ""
+
+msgid "bbs.import|История импортов пустая"
+msgstr ""
+
+msgid "bbs.import|Категория"
+msgstr ""
+
+msgid "bbs.import|Категория указана некорректно"
+msgstr ""
+
+msgid "bbs.import|Комментарий"
+msgstr ""
+
+msgid "bbs.import|Не удалось загрузить файл импорта"
+msgstr ""
+
+msgid "bbs.import|Не удалось найти объявления для импорта"
+msgstr ""
+
+msgid "bbs.import|Необходимо выбрать категорию"
+msgstr ""
+
+msgid "bbs.import|Необходимо выбрать статус объявлений"
+msgstr ""
+
+msgid "bbs.import|Обработано"
+msgstr ""
+
+msgid "bbs.import|Объявлений"
+msgstr ""
+
+msgid "bbs.import|Ошибка обработки файла импорта, обратитесь к администратору"
+msgstr ""
+
+msgid "bbs.import|Подробное описание объявления"
+msgstr ""
+
+msgid "bbs.import|Пользователь был указан некорректно"
+msgstr ""
+
+msgid "bbs.import|При выполнении экспорта с выбранными параметрами будет превышен лимит выделенной памяти [memoryLimit]. Требуется памяти - [memoryNeeded]"
+msgstr ""
+
+msgid "bbs.import|Разрешено импортировать только файлы в формате xml"
+msgstr ""
+
+msgid "bbs.import|Скачать шаблон"
+msgstr ""
+
+msgid "bbs.import|Сняты с публикации"
+msgstr ""
+
+msgid "bbs.import|Статус"
+msgstr ""
+
+msgid "bbs.import|Статус объявлений"
+msgstr ""
+
+msgid "bbs.import|Укажите владельца объявлений"
+msgstr ""
+
+msgid "bbs.import|Файл импорта не соответствует требуемой структуре (#1)"
+msgstr ""
+
+msgid "bbs.import|Файл импорта не соответствует требуемой структуре (#2)"
+msgstr ""
+
+msgid "bbs.import|в процессе"
+msgstr ""
+
+msgid "bbs.import|добавлено: [count]"
+msgstr ""
+
+msgid "bbs.import|завершён"
+msgstr ""
+
+msgid "bbs.import|завершён с ошибкой"
+msgstr ""
+
+msgid "bbs.import|обновлено: [count]"
+msgstr ""
+
+msgid "bbs.import|ожидает"
+msgstr ""
+
+msgid "bbs.import|отменён"
+msgstr ""
+
+msgid "bbs.import|пропущено: [count]"
+msgstr ""
+
+msgid "bbs.my|Активировать"
+msgstr ""
+
+msgid "bbs.my|Активные"
+msgstr ""
+
+msgid "bbs.my|Все категории"
+msgstr ""
+
+msgid "bbs.my|Выбрано <b>[items]</b>"
+msgstr ""
+
+msgid "bbs.my|Деактивировать"
+msgstr ""
+
+msgid "bbs.my|Для возможности публикации объявлений <a [open_link]>откройте магазин</a>."
+msgstr ""
+
+msgid "bbs.my|ЗАБЛОКИРОВАНО"
+msgstr ""
+
+msgid "bbs.my|Изменить"
+msgstr ""
+
+msgid "bbs.my|На проверке"
+msgstr ""
+
+msgid "bbs.my|Неактивные"
+msgstr ""
+
+msgid "bbs.my|Необходимо отметить минимум одно из ваших объявлений"
+msgstr ""
+
+msgid "bbs.my|Отмеченные объявления были успешно опубликованы"
+msgstr ""
+
+msgid "bbs.my|Отмеченные объявления были успешно продлены"
+msgstr ""
+
+msgid "bbs.my|Отмеченные объявления были успешно сняты с публикации"
+msgstr ""
+
+msgid "bbs.my|По"
+msgstr ""
+
+msgid "bbs.my|Посмотреть"
+msgstr ""
+
+msgid "bbs.my|Продлить"
+msgstr ""
+
+msgid "bbs.my|Редактировать"
+msgstr ""
+
+msgid "bbs.my|Рекламировать"
+msgstr ""
+
+msgid "bbs.my|С"
+msgstr ""
+
+msgid "bbs.my|Снять с публикации"
+msgstr ""
+
+msgid "bbs.my|Список объявлений пустой"
+msgstr ""
+
+msgid "bbs.my|Статистика"
+msgstr ""
+
+msgid "bbs.my|Удалить"
+msgstr ""
+
+msgid "bbs.my|Удалить объявление?"
+msgstr ""
+
+msgid "bbs.my|Удалить отмеченные объявления?"
+msgstr ""
+
+msgid "bbs.my|контакты"
+msgstr ""
+
+msgid "bbs.my|просмотры"
+msgstr ""
+
+msgid "bbs.my|сообщения"
+msgstr ""
+
+msgid "bbs|(предыдущая публикация [date])"
+msgstr ""
+
+msgid "bbs|Авторизуйтесь для возможности добавления большего количества объявлений в избранные"
+msgstr ""
+
+msgid "bbs|Активация объявления"
+msgstr ""
+
+msgid "bbs|Бизнес"
+msgstr ""
+
+msgid "bbs|В указанном вами заголовке присутствует запрещенное слово \"[word]\""
+msgstr ""
+
+msgid "bbs|В указанном вами описании присутствует запрещенное слово \"[word]\""
+msgstr ""
+
+msgid "bbs|Ваш аккаунт заблокирован. За детальной информацией обращайтесь в службу поддержки."
+msgstr ""
+
+msgid "bbs|Ваше объявление было закреплено за этой категорией. Вы не можете изменить её."
+msgstr ""
+
+msgid "bbs|Вернуться к <a [my_link]>списку своих объявлений</a>"
+msgstr ""
+
+msgid "bbs|Весь список ваших избранных объявлений можно посмотреть <a [fav_link]>тут</a>"
+msgstr ""
+
+msgid "bbs|Возможность публикации объявлений в данную категорию на сегодня исчерпана ([limit] в сутки)."
+msgstr ""
+
+msgid "bbs|Возможность публикации объявлений на сегодня исчерпана ([limit] в сутки)."
+msgstr ""
+
+msgid "bbs|Все"
+msgstr ""
+
+msgid "bbs|Все категории"
+msgstr ""
+
+msgid "bbs|Все подкатегории"
+msgstr ""
+
+msgid "bbs|Всего к оплате"
+msgstr ""
+
+msgid "bbs|Вы не является владельцем данного объявления"
+msgstr ""
+
+msgid "bbs|Вы уже публиковали аналогичное объявление. Воспользуйтесь функцией поднятия объявления"
+msgstr ""
+
+msgid "bbs|Вы успешно активировали объявление!"
+msgstr ""
+
+msgid "bbs|Вы успешно активировали услугу для объявления: <br /><a [link]>[title]</a>"
+msgstr ""
+
+msgid "bbs|Вы успешно опубликовали объявление!"
+msgstr ""
+
+msgid "bbs|Вы успешно отредактировали объявление!"
+msgstr ""
+
+msgid "bbs|Вы успешно сняли объявление с публикации!"
+msgstr ""
+
+msgid "bbs|Вы успешно создали объявление!"
+msgstr ""
+
+msgid "bbs|Выберите способ оплаты"
+msgstr ""
+
+msgid "bbs|Выберите услугу"
+msgstr ""
+
+msgid "bbs|Выбрать"
+msgstr ""
+
+msgid "bbs|Выделение объявления<br /><small><a [link]>[title]</a></small>"
+msgstr ""
+
+msgid "bbs|Город указан некорректно"
+msgstr ""
+
+msgid "bbs|Да"
+msgstr ""
+
+msgid "bbs|Данное объявление находится на модерации."
+msgstr ""
+
+msgid "bbs|Для возможности удаления объявления, необходимо снять его с публикации"
+msgstr ""
+
+msgid "bbs|Для указанного объявления невозможно активировать данную услугу"
+msgstr ""
+
+msgid "bbs|Добавить в избранное"
+msgstr ""
+
+msgid "bbs|За [from]"
+msgstr ""
+
+msgid "bbs|Заголовок слишком короткий"
+msgstr ""
+
+msgid "bbs|Закрепление объявления<br /><small><a [link]>[title]</a></small>"
+msgstr ""
+
+msgid "bbs|Избранные объявления"
+msgstr ""
+
+msgid "bbs|Изменить настройки фильтра"
+msgstr ""
+
+msgid "bbs|Имя слишком короткое"
+msgstr ""
+
+msgid "bbs|Ищу"
+msgstr ""
+
+msgid "bbs|Категория указана некорректно"
+msgstr ""
+
+msgid "bbs|Комментарий от заблокированного пользователя"
+msgstr ""
+
+msgid "bbs|Магазинов по вашему запросу не найдено"
+msgstr ""
+
+msgid "bbs|Найти"
+msgstr ""
+
+msgid "bbs|Необходимо опубликовать объявление для дальнейшего его продвижения."
+msgstr ""
+
+msgid "bbs|Нет"
+msgstr ""
+
+msgid "bbs|Неудалось активировать пакет услуг"
+msgstr ""
+
+msgid "bbs|Неудалось выполнить запрос к Sphinx"
+msgstr ""
+
+msgid "bbs|Неудалось удалить объявление, возможно данное объявление уже удалено"
+msgstr ""
+
+msgid "bbs|Обмен"
+msgstr ""
+
+msgid "bbs|Объявление было заблокировано модератором, причина: [reason]"
+msgstr ""
+
+msgid "bbs|Объявление было заблокировано модератором."
+msgstr ""
+
+msgid "bbs|Объявление было удалено"
+msgstr ""
+
+msgid "bbs|Объявление добавленно в избранные"
+msgstr ""
+
+msgid "bbs|Объявление не найдено, либо ссылка указана некорректно"
+msgstr ""
+
+msgid "bbs|Объявление не найдено. Возможно период действия ссылки активации вашего объявления истек."
+msgstr ""
+
+msgid "bbs|Объявление опубликовано"
+msgstr ""
+
+msgid "bbs|Объявление публикуется"
+msgstr ""
+
+msgid "bbs|Объявление снято с публикации"
+msgstr ""
+
+msgid "bbs|Объявлений по вашему запросу не найдено"
+msgstr ""
+
+msgid "bbs|Объявления"
+msgstr ""
+
+msgid "bbs|Объявления было успешно опубликовано"
+msgstr ""
+
+msgid "bbs|Объявления было успешно снято с публикации"
+msgstr ""
+
+msgid "bbs|Объявления было успешно удалено"
+msgstr ""
+
+msgid "bbs|Объявления пользователя"
+msgstr ""
+
+msgid "bbs|Описание слишком короткое"
+msgstr ""
+
+msgid "bbs|Опубликовать снова"
+msgstr ""
+
+msgid "bbs|От частных лиц"
+msgstr ""
+
+msgid "bbs|Отдам даром"
+msgstr ""
+
+msgid "bbs|Отменить"
+msgstr ""
+
+msgid "bbs|Отмеченные объявления были успешно удалены"
+msgstr ""
+
+msgid "bbs|Отфильтровать"
+msgstr ""
+
+msgid "bbs|Очистить"
+msgstr ""
+
+msgid "bbs|Очистить избранное"
+msgstr ""
+
+msgid "bbs|Ошибка активации, обратитесь в службу поддержки."
+msgstr ""
+
+msgid "bbs|Пакет услуг \"[pack]\" <br /><small><a [link]>[title]</a></small>"
+msgstr ""
+
+msgid "bbs|Перейти на <a [link_home]>главную страницу</a> сайта"
+msgstr ""
+
+msgid "bbs|Перейти на просмотр <a [link_search]>всех объявлений</a>"
+msgstr ""
+
+msgid "bbs|Поднятие объявления в списке<br /><small><a [link]>[title]</a></small>"
+msgstr ""
+
+msgid "bbs|Подтверждение выбранной услуги"
+msgstr ""
+
+msgid "bbs|Поиск объявлений..."
+msgstr ""
+
+msgid "bbs|После проверки оно будет опубликовано"
+msgstr ""
+
+msgid "bbs|Последние объявления"
+msgstr ""
+
+msgid "bbs|Предлагаю"
+msgstr ""
+
+msgid "bbs|Премиум объявления"
+msgstr ""
+
+msgid "bbs|Премиум размещение<br /><small><a [link]>[title]</a></small>"
+msgstr ""
+
+msgid "bbs|Причина блокировки:"
+msgstr ""
+
+msgid "bbs|Продвижение объявления"
+msgstr ""
+
+msgid "bbs|Продлить"
+msgstr ""
+
+msgid "bbs|Продолжить"
+msgstr ""
+
+msgid "bbs|Размещение объявления в прессе<br /><small><a [link]>[title]</a></small>"
+msgstr ""
+
+msgid "bbs|С [from] по [to]"
+msgstr ""
+
+msgid "bbs|Спасибо! Осталось всего лишь активировать объявление!"
+msgstr ""
+
+msgid "bbs|Список избранных объявлений пустой"
+msgstr ""
+
+msgid "bbs|Список объявлений магазина пустой"
+msgstr ""
+
+msgid "bbs|Список объявлений пользователя пустой"
+msgstr ""
+
+msgid "bbs|Срок действия ссылки активации истек либо она некорректна. Пожалуйста, <a [link_add]>добавьте новое объявление</a>."
+msgstr ""
+
+msgid "bbs|Срок публикации объявления был успешно продлен"
+msgstr ""
+
+msgid "bbs|Срочное размещение<br /><small><a [link]>[title]</a></small>"
+msgstr ""
+
+msgid "bbs|Статистика просмотров для данного объявления отсутствует"
+msgstr ""
+
+msgid "bbs|Только бизнес объявления"
+msgstr ""
+
+msgid "bbs|Торг возможен"
+msgstr ""
+
+msgid "bbs|Удален автором комментария"
+msgstr ""
+
+msgid "bbs|Удален владельцем объявления"
+msgstr ""
+
+msgid "bbs|Удален модератором"
+msgstr ""
+
+msgid "bbs|Удалить из избранного"
+msgstr ""
+
+msgid "bbs|Укажите город"
+msgstr ""
+
+msgid "bbs|Укажите заголовок объявления"
+msgstr ""
+
+msgid "bbs|Укажите категорию"
+msgstr ""
+
+msgid "bbs|Услуга активирована до <b>[date]</b>"
+msgstr ""
+
+msgid "bbs|Фильтровать результаты"
+msgstr ""
+
+msgid "bbs|Частное лицо"
+msgstr ""
+
+msgid "bbs|бесплатно"
+msgstr ""
+
+msgid "bbs|до [date]"
+msgstr ""
+
+msgid "bbs|номер"
+msgstr ""
+
+msgid "bbs|объявление;объявления;объявлений"
+msgstr ""
+
+msgid "bbs|ожидает публикации"
+msgstr ""
+
+msgid "bbs|опл."
+msgstr ""
+
+msgid "bbs|оплачено: <b>[up]</b>"
+msgstr ""
+
+msgid "bbs|опубликовано"
+msgstr ""
+
+msgid "bbs|срочно"
+msgstr ""
+
+msgid "bbs|фото"
+msgstr ""
+
+msgid "bills| системой \"[way]\""
+msgstr ""
+
+msgid "bills|<br/>На вашем счету: <a href=\"[link]\">[balance] [curr]</a>"
+msgstr ""
+
+msgid "bills|Robokassa"
+msgstr ""
+
+msgid "bills|Webmoney"
+msgstr ""
+
+msgid "bills|Введите сумму"
+msgstr ""
+
+msgid "bills|Вы успешно пополнили счет"
+msgstr ""
+
+msgid "bills|Выберите способ оплаты"
+msgstr ""
+
+msgid "bills|История операций"
+msgstr ""
+
+msgid "bills|На вашем счету:"
+msgstr ""
+
+msgid "bills|На какую сумму вы хотите пополнить счёт?"
+msgstr ""
+
+msgid "bills|Описание"
+msgstr ""
+
+msgid "bills|Оплата счета"
+msgstr ""
+
+msgid "bills|Оплата усуги"
+msgstr ""
+
+msgid "bills|Ошибка закрытия счета #[id]"
+msgstr ""
+
+msgid "bills|Ошибка оплаты счета"
+msgstr ""
+
+msgid "bills|Ошибка создания счета"
+msgstr ""
+
+msgid "bills|Пополнение счета"
+msgstr ""
+
+msgid "bills|Пополнение счета через [system]"
+msgstr ""
+
+msgid "bills|Пополнить счет"
+msgstr ""
+
+msgid "bills|Продолжить"
+msgstr ""
+
+msgid "bills|Список операций по счету пустой"
+msgstr ""
+
+msgid "bills|Сумма"
+msgstr ""
+
+msgid "bills|Счет [name]"
+msgstr ""
+
+msgid "bills|Терминал"
+msgstr ""
+
+msgid "bills|№ операции"
+msgstr ""
+
+msgid "blog|Блог"
+msgstr ""
+
+msgid "blog|Блог проекта"
+msgstr ""
+
+msgid "blog|Избранные"
+msgstr ""
+
+msgid "blog|Категории"
+msgstr ""
+
+msgid "blog|Назад в блог"
+msgstr ""
+
+msgid "blog|Следующая запись"
+msgstr ""
+
+msgid "blog|Теги"
+msgstr ""
+
+msgid "blog|Читать дальше"
+msgstr ""
+
+msgid "captcha|Результат с картинки указан некорректно"
+msgstr ""
+
+msgid "comments|(Это Вы)"
+msgstr ""
+
+msgid "comments|d.m.Y в H:i"
+msgstr ""
+
+msgid "comments|Ваш комментарий"
+msgstr ""
+
+msgid "comments|Вы удалили этот комментарий"
+msgstr ""
+
+msgid "comments|Еще комментарии ([num])"
+msgstr ""
+
+msgid "comments|Комментарии"
+msgstr ""
+
+msgid "comments|Комментарии к этому объявлению закрыты"
+msgstr ""
+
+msgid "comments|Комментарий не может быть короче 5 символов"
+msgstr ""
+
+msgid "comments|Опубликовать"
+msgstr ""
+
+msgid "comments|Опубликовать комментарий"
+msgstr ""
+
+msgid "comments|Ответить"
+msgstr ""
+
+msgid "comments|Показать все ответы"
+msgstr ""
+
+msgid "comments|После проверки модератором ваш комментарий будет опубликован"
+msgstr ""
+
+msgid "comments|Удалить"
+msgstr ""
+
+msgid "comments|Чтобы опубликовать свой комментарий, Вы должны <a [link_reg]>зарегистрироваться</a> или <a [link_login]>войти</a>."
+msgstr ""
+
+msgctxt "common"
+msgid "ago"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|Cпособ оплаты отключен"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|Демо режим запрещён"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|Не переданы параметры"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|Неверная контрольная сумма"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|Неверная сумма"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|Неверный формат номера счёта"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|Оплата счета #[bill.id] ([site.title])"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|Ошибка оплаты счёта"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|Ошибка создания счета"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|Пополнение счета через [system]"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|завершен"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|незавершен"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|обрабатывается"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|оплата услуги"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|отменен"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|подарок"
+msgstr ""
+
+msgctxt "common"
+msgid "bills|пополнение счета"
+msgstr ""
+
+msgctxt "common"
+msgid "comments|Ошибка добавления комментария"
+msgstr ""
+
+msgctxt "common"
+msgid "day;days;days"
+msgstr ""
+
+msgctxt "common"
+msgid "errors|Внутренняя ошибка сервера"
+msgstr ""
+
+msgctxt "common"
+msgid "errors|Вы должны ввести корректный логин и пароль для получения доступа к ресурсу."
+msgstr ""
+
+msgctxt "common"
+msgid "errors|Доступ запрещен"
+msgstr ""
+
+msgctxt "common"
+msgid "errors|Доступ к указанной странице запрещен"
+msgstr ""
+
+msgctxt "common"
+msgid "errors|Произошла внутренняя ошибка сервера"
+msgstr ""
+
+msgctxt "common"
+msgid "errors|Произошла внутренняя ошибка сервера (' . $errorCode . "
+msgstr ""
+
+msgctxt "common"
+msgid "errors|Страница не найдена!"
+msgstr ""
+
+msgctxt "common"
+msgid "errors|Страницы, на которую вы попытались войти не существует."
+msgstr ""
+
+msgctxt "common"
+msgid "geo|Выберите станцию"
+msgstr ""
+
+msgctxt "common"
+msgid "hour;hours;hours"
+msgstr ""
+
+msgctxt "common"
+msgid "images|Неуказаны требуемые размеры изображения"
+msgstr ""
+
+msgctxt "common"
+msgid "minute;minutes;minutes"
+msgstr ""
+
+msgctxt "common"
+msgid "month;months;months"
+msgstr ""
+
+msgctxt "common"
+msgid "now"
+msgstr ""
+
+msgctxt "common"
+msgid "pgn| - страница [page]"
+msgstr ""
+
+msgctxt "common"
+msgid "second;seconds;seconds"
+msgstr ""
+
+msgctxt "common"
+msgid "sitemap|Корневой раздел"
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Загрузка файла была остановлена одним из приложений(extensions) php"
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Имя файла не было указано."
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Информация о загрузке [file] не указана"
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Не был выбран файл для загрузки"
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Не найдена папка для временных файлов"
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Недопустимое имя файла"
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Недопустимый размер файла"
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Недопустимый тип файла"
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Ошибка загрузки файла"
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Ошибка записи файла на диск"
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Превышен максимально допустимый размер POST запроса([post_max])."
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Проверка загруженного файла на is_uploaded_file не прошла."
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Размер файла больше разрешенного директивой upload_max_filesize в php.ini"
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Размер файла превышает допустимый"
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Размер файла превышает указанное значение в MAX_FILE_SIZE"
+msgstr ""
+
+msgctxt "common"
+msgid "swfupload|Файл был загружен только частично"
+msgstr ""
+
+msgctxt "common"
+msgid "system|File \"[file]\" does not exists"
+msgstr ""
+
+msgctxt "common"
+msgid "system|URL указан некорректно"
+msgstr ""
+
+msgctxt "common"
+msgid "system|В доступе отказано"
+msgstr ""
+
+msgctxt "common"
+msgid "system|Данная операция недоступна в режиме просмотра демо-версии"
+msgstr ""
+
+msgctxt "common"
+msgid "system|Компонент \"[component]\" не имеет требуемого метода \"[method]\""
+msgstr ""
+
+msgctxt "common"
+msgid "system|Модуль [module] не имеет метода [method]"
+msgstr ""
+
+msgctxt "common"
+msgid "system|Невозможно выполнить операцию"
+msgstr ""
+
+msgctxt "common"
+msgid "system|Неизвестная ошибка"
+msgstr ""
+
+msgctxt "common"
+msgid "system|Неудалось найти модуль \"[module]\""
+msgstr ""
+
+msgctxt "common"
+msgid "system|Обновите страницу и повторите попытку"
+msgstr ""
+
+msgctxt "common"
+msgid "system|Операция выполнена успешно"
+msgstr ""
+
+msgctxt "common"
+msgid "system|Ошибка загрузки файла"
+msgstr ""
+
+msgctxt "common"
+msgid "system|Укажите путь к директории, доступной для записи"
+msgstr ""
+
+msgctxt "common"
+msgid "table|AR is empty"
+msgstr ""
+
+msgctxt "common"
+msgid "table|Cannot undefine an AR-mapped field [field]"
+msgstr ""
+
+msgctxt "common"
+msgid "table|Cannot unset an AR-mapped field [field]"
+msgstr ""
+
+msgctxt "common"
+msgid "table|Name conflict with AR-mapped field"
+msgstr ""
+
+msgctxt "common"
+msgid "table|Virtual fields are read-only"
+msgstr ""
+
+msgctxt "common"
+msgid "tags|Название указано некорректно"
+msgstr ""
+
+msgctxt "common"
+msgid "today"
+msgstr ""
+
+msgctxt "common"
+msgid "uploader|Ошибка сохранения данных об изображениях в таблицу \"[table]\""
+msgstr ""
+
+msgctxt "common"
+msgid "upload|Запрещенный тип файла"
+msgstr ""
+
+msgctxt "common"
+msgid "upload|Изображение слишком большое по ширине/высоте"
+msgstr ""
+
+msgctxt "common"
+msgid "upload|Некорректное имя файла"
+msgstr ""
+
+msgctxt "common"
+msgid "upload|Некорректный размер файла"
+msgstr ""
+
+msgctxt "common"
+msgid "upload|Ошибка загрузки файла"
+msgstr ""
+
+msgctxt "common"
+msgid "upload|Ошибка загрузки файла, обратитесь к администратору"
+msgstr ""
+
+msgctxt "common"
+msgid "upload|Файл превышает масимально допустимый размер"
+msgstr ""
+
+msgctxt "common"
+msgid "upload|Файл с таким названием уже был загружен ранее"
+msgstr ""
+
+msgctxt "common"
+msgid "users|E-mail адрес указан некорректно"
+msgstr ""
+
+msgctxt "common"
+msgid "users|E-mail или пароль указаны некорректно"
+msgstr ""
+
+msgctxt "common"
+msgid "users|Аккаунт заблокирован по причине: [reason]"
+msgstr ""
+
+msgctxt "common"
+msgid "users|Вы не можете закрыть доступ самому себе."
+msgstr ""
+
+msgctxt "common"
+msgid "users|Дата должна быть в формате <kbd>ДД-ММ-ГГГГ</kbd>."
+msgstr ""
+
+msgctxt "common"
+msgid "users|Для получения дополнительной информации %2$sсвяжитесь с администратором%3$s."
+msgstr ""
+
+msgctxt "common"
+msgid "users|Доступ до <strong>%1$s</strong>.<br /><br />Для получения дополнительной информации %2$sсвяжитесь с администратором%3$s."
+msgstr ""
+
+msgctxt "common"
+msgid "users|Доступ закрыт"
+msgstr ""
+
+msgctxt "common"
+msgid "users|Доступ закрыт для вашего IP-адреса."
+msgstr ""
+
+msgctxt "common"
+msgid "users|Доступ закрыт для вашего адреса email."
+msgstr ""
+
+msgctxt "common"
+msgid "users|Доступ закрыт для вашей учётной записи."
+msgstr ""
+
+msgctxt "common"
+msgid "users|Запрашиваемых пользователей не существует."
+msgstr ""
+
+msgctxt "common"
+msgid "users|Имя пользователя не определено."
+msgstr ""
+
+msgctxt "common"
+msgid "users|Логин или пароль указаны некорректно"
+msgstr ""
+
+msgctxt "common"
+msgid "users|Логин указан некорректно"
+msgstr ""
+
+msgctxt "common"
+msgid "users|Не найдено правильных адресов электронной почты."
+msgstr ""
+
+msgctxt "common"
+msgid "users|Не определён IP-адрес или имя хоста"
+msgstr ""
+
+msgctxt "common"
+msgid "users|Не удалось определить IP-адрес указанного хоста"
+msgstr ""
+
+msgctxt "common"
+msgid "users|Не указан режим."
+msgstr ""
+
+msgctxt "common"
+msgid "users|Произошла ошибка авторизации, попробуйте обновить страницу и авторизоваться повторно"
+msgstr ""
+
+msgctxt "common"
+msgid "year;years;years"
+msgstr ""
+
+msgctxt "common"
+msgid "yesterday"
+msgstr ""
+
+msgctxt "common"
+msgid "Б,КБ,МБ,ГБ,ТБ"
+msgstr ""
+
+msgctxt "common"
+msgid "Байт,Килобайт,Мегабайт,Гигабайт,Терабайт"
+msgstr ""
+
+msgctxt "common"
+msgid "Ошибка активации услуги"
+msgstr ""
+
+msgctxt "common"
+msgid "Повторите попытку через несколько минут"
+msgstr ""
+
+msgctxt "common"
+msgid "Повторите попытку через одну минуту"
+msgstr ""
+
+msgctxt "common"
+msgid "Укажите keyword"
+msgstr ""
+
+msgctxt "common"
+msgid "Указанный keyword уже используется"
+msgstr ""
+
+msgctxt "common"
+msgid "вчера"
+msgstr ""
+
+msgctxt "common"
+msgid "год"
+msgstr ""
+
+msgctxt "common"
+msgid "день"
+msgstr ""
+
+msgctxt "common"
+msgid "месяц"
+msgstr ""
+
+msgctxt "common"
+msgid "сегодня"
+msgstr ""
+
+msgid "contacts|E-mail адрес указан некорректно"
+msgstr ""
+
+msgid "contacts|Ваш e-mail адрес"
+msgstr ""
+
+msgid "contacts|Ваше имя"
+msgstr ""
+
+msgid "contacts|Ваше сообщение успешно отправлено.<br/>Мы постараемся ответить на него как можно скорее."
+msgstr ""
+
+msgid "contacts|Введите результат"
+msgstr ""
+
+msgid "contacts|Выберите тему"
+msgstr ""
+
+msgid "contacts|Другие вопросы"
+msgstr ""
+
+msgid "contacts|Контакты"
+msgstr ""
+
+msgid "contacts|Отправить сообщение"
+msgstr ""
+
+msgid "contacts|Ошибка на сайте"
+msgstr ""
+
+msgid "contacts|Сообщение"
+msgstr ""
+
+msgid "contacts|Текст сообщения слишком короткий"
+msgstr ""
+
+msgid "contacts|Технический вопрос"
+msgstr ""
+
+msgid "contacts|Укажите ваше имя"
+msgstr ""
+
+msgid "error|Если вы уверены в том, что эта странца здесь должна быть, то <a [contact]>напишите нам</a>, пожалуйста."
+msgstr ""
+
+msgid "error|Найти"
+msgstr ""
+
+msgid "error|Попробуйте её найти вернувшись на <a [home]>главную страницу</a>."
+msgstr ""
+
+msgid "error|Страница не найдена. Ошибка 404."
+msgstr ""
+
+msgid "error|Страницы, на которую вы попытались попасть не существует."
+msgstr ""
+
+msgid "filter|Введите первые буквы..."
+msgstr ""
+
+msgid "filter|Вернуться к основным категориям"
+msgstr ""
+
+msgid "filter|Вернуться назад"
+msgstr ""
+
+msgid "filter|Все"
+msgstr ""
+
+msgid "filter|Все города"
+msgstr ""
+
+msgid "filter|Все категории"
+msgstr ""
+
+msgid "filter|Все подкатегории"
+msgstr ""
+
+msgid "filter|Все регионы"
+msgstr ""
+
+msgid "filter|Все страны"
+msgstr ""
+
+msgid "filter|Выберите категорию"
+msgstr ""
+
+msgid "filter|Выберите регион:"
+msgstr ""
+
+msgid "filter|Выберите страну"
+msgstr ""
+
+msgid "filter|Изменить регион"
+msgstr ""
+
+msgid "filter|Изменить страну"
+msgstr ""
+
+msgid "filter|Искать во всех регионах"
+msgstr ""
+
+msgid "filter|Искать объявления во <a [attr]>всех городах</a>"
+msgstr ""
+
+msgid "filter|Искать объявления по"
+msgstr ""
+
+msgid "filter|Искать объявления по <a [attr]>всему региону</a>"
+msgstr ""
+
+msgid "filter|Искать объявления по <a[attr]>всей стране</a>"
+msgstr ""
+
+msgid "filter|Искать объявления по <a[link]>всем странам</a>"
+msgstr ""
+
+msgid "filter|Метро"
+msgstr ""
+
+msgid "filter|Не важно"
+msgstr ""
+
+msgid "filter|Не найдено - \"[word]\""
+msgstr ""
+
+msgid "filter|Не указан"
+msgstr ""
+
+msgid "filter|Отфильтровать"
+msgstr ""
+
+msgid "filter|Поиск в регионе:"
+msgstr ""
+
+msgid "filter|Район"
+msgstr ""
+
+msgid "filter|Район города"
+msgstr ""
+
+msgid "filter|С фото"
+msgstr ""
+
+msgid "filter|Цена"
+msgstr ""
+
+msgid "filter|всей стране"
+msgstr ""
+
+msgid "filter|до"
+msgstr ""
+
+msgid "filter|объявление;объявления;объявлений"
+msgstr ""
+
+msgid "filter|от"
+msgstr ""
+
+msgid "filter|смотреть все магазины"
+msgstr ""
+
+msgid "filter|смотреть все объявления"
+msgstr ""
+
+msgid "filter|станция;станции;станций"
+msgstr ""
+
+msgid "geo|Выбрать страну"
+msgstr ""
+
+msgid "header|<a [login_link]>Войдите</a> или <a [reg_link]>Зарегистрируйтесь</a>"
+msgstr ""
+
+msgid "header|Добавить"
+msgstr ""
+
+msgid "header|Добавить объявление"
+msgstr ""
+
+msgid "header|магазин"
+msgstr ""
+
+msgid "help|В данной рубрике пусто"
+msgstr ""
+
+msgid "help|Другие вопросы из этого раздела"
+msgstr ""
+
+msgid "help|Найти"
+msgstr ""
+
+msgid "help|По запросу \"[query]\" ничего не найдено"
+msgstr ""
+
+msgid "help|Подробнее"
+msgstr ""
+
+msgid "help|Поиск вопросов..."
+msgstr ""
+
+msgid "help|Помощь"
+msgstr ""
+
+msgid "help|Помощь по проекту"
+msgstr ""
+
+msgid "help|Результаты поиска по запросу \"[query]\":"
+msgstr ""
+
+msgid "help|Частые вопросы"
+msgstr ""
+
+msgid "ibbs.import|Опубликованы"
+msgstr ""
+
+msgid "internalmail|Все сообщения"
+msgstr ""
+
+msgid "internalmail|Для магазина"
+msgstr ""
+
+msgid "internalmail|Для частного лица"
+msgstr ""
+
+msgid "internalmail|Игнорирую"
+msgstr ""
+
+msgid "internalmail|Избранные"
+msgstr ""
+
+msgid "internalmail|Магазин был заблокирован по причине: [reason]"
+msgstr ""
+
+msgid "internalmail|Магазин запретил отправлять ему сообщения"
+msgstr ""
+
+msgid "internalmail|Объявления магазина"
+msgstr ""
+
+msgid "internalmail|Объявления этого пользователя"
+msgstr ""
+
+msgid "internalmail|Отправить"
+msgstr ""
+
+msgid "internalmail|Переписка с магазином временно недоступна"
+msgstr ""
+
+msgid "internalmail|Пользователь запретил отправлять ему сообщения"
+msgstr ""
+
+msgid "internalmail|Прикрепить файл (до [maxSize])"
+msgstr ""
+
+msgid "internalmail|Сообщение было успешно отправлено"
+msgstr ""
+
+msgid "internalmail|Сообщение слишком короткое"
+msgstr ""
+
+msgid "internalmail|Список сообщений пустой"
+msgstr ""
+
+msgid "internalmail|Текст сообщения слишком короткий"
+msgstr ""
+
+msgid "internalmail|Текст сообщения..."
+msgstr ""
+
+msgid "internalmail|Удалить"
+msgstr ""
+
+msgid "internalmail|Указанный собеседник не найден либо был заблокирован"
+msgstr ""
+
+msgid "item-claim|Введите результат с картинки"
+msgstr ""
+
+msgid "item-claim|Другое"
+msgstr ""
+
+msgid "item-claim|Жалоба успешно принята"
+msgstr ""
+
+msgid "item-claim|Запрещенный товар/услуга"
+msgstr ""
+
+msgid "item-claim|Неверная рубрика"
+msgstr ""
+
+msgid "item-claim|Неверный адрес"
+msgstr ""
+
+msgid "item-claim|Объявление не актуально"
+msgstr ""
+
+msgid "item-claim|Опишите причину подробнее"
+msgstr ""
+
+msgid "item-claim|Оставьте ваш комментарий"
+msgstr ""
+
+msgid "item-claim|Отправить жалобу"
+msgstr ""
+
+msgid "item-claim|Укажите причину"
+msgstr ""
+
+msgid "item-claim|Укажите причину жалобы"
+msgstr ""
+
+msgid "item-claim|Укажите причины, по которым вы считаете это объявление некорректным"
+msgstr ""
+
+msgid "item-form|"
+msgstr ""
+
+msgid "item-form|\"Файл {file} слишком большой, максимально допустимый размер {sizeLimit}"
+msgstr ""
+
+msgid "item-form|+ ещё<span [attr]> телефон</span>"
+msgstr ""
+
+msgid "item-form|<a [link_add]>Добавить еще одно</a> объявление"
+msgstr ""
+
+msgid "item-form|<a [link_add]>Добавить объявление</a> в ту же категорию"
+msgstr ""
+
+msgid "item-form|E-mail адрес"
+msgstr ""
+
+msgid "item-form|Youtube, Rutube, Vimeo"
+msgstr ""
+
+msgid "item-form|Адрес объекта"
+msgstr ""
+
+msgid "item-form|Бесплатно"
+msgstr ""
+
+msgid "item-form|Бесплатное объявление"
+msgstr ""
+
+msgid "item-form|Бесплатное объявление, ничем не выделено на фоне таких же предложений"
+msgstr ""
+
+msgid "item-form|Ваш магазин был <a [link]>деактивирован или заблокирован</a>.<br/>Невозможно разместить объявление от магазина."
+msgstr ""
+
+msgid "item-form|Ваше объявление было закреплено за этой категорией.<br />Вы не можете изменить её."
+msgstr ""
+
+msgid "item-form|Ваше объявление сохранено, но ещё не опубликовано."
+msgstr ""
+
+msgid "item-form|Ваши контактные данные"
+msgstr ""
+
+msgid "item-form|Ваши контактные данные для объявления берутся из <a [link_settings]>настроек</a> в личном кабинете."
+msgstr ""
+
+msgid "item-form|Вернуться к основным категориям"
+msgstr ""
+
+msgid "item-form|Вернуться назад"
+msgstr ""
+
+msgid "item-form|Вы можете загрузить не более {limit} изображений"
+msgstr ""
+
+msgid "item-form|Вы не являетесь владельцем данного объявления"
+msgstr ""
+
+msgid "item-form|Вы не является владельцем данного объявления."
+msgstr ""
+
+msgid "item-form|Выберите категорию"
+msgstr ""
+
+msgid "item-form|Выберите станцию"
+msgstr ""
+
+msgid "item-form|Выбрать другую ветку"
+msgstr ""
+
+msgid "item-form|Город"
+msgstr ""
+
+msgid "item-form|Для публикация объявления вам необходимо <a [link]>открыть магазин</a>."
+msgstr ""
+
+msgid "item-form|Добавить фото"
+msgstr ""
+
+msgid "item-form|Допустимы только следующие типы файлов: {extensions}"
+msgstr ""
+
+msgid "item-form|Если вы не видите письма, проверьте папку Спам, а также правильность написания вашего адреса."
+msgstr ""
+
+msgid "item-form|Если у вас возникли проблемы воспользуйтесь <a [a_simple]>альтернативной формой</a>"
+msgstr ""
+
+msgid "item-form|Заголовок"
+msgstr ""
+
+msgid "item-form|Изменить"
+msgstr ""
+
+msgid "item-form|Изменить ваши контактные данные вы можете в личном кабинете в разделе <a [link_settings]>настройки</a>."
+msgstr ""
+
+msgid "item-form|Имя появится в блоке с контактной информацией"
+msgstr ""
+
+msgid "item-form|Категория"
+msgstr ""
+
+msgid "item-form|Контактное лицо"
+msgstr ""
+
+msgid "item-form|Контакты"
+msgstr ""
+
+msgid "item-form|Магазин"
+msgstr ""
+
+msgid "item-form|Местоположение"
+msgstr ""
+
+msgid "item-form|Метро"
+msgstr ""
+
+msgid "item-form|Мы выслали вам письмо на адрес <b>[email]</b> со ссылкой для активации, пожалуйста, проверьте вашу почту."
+msgstr ""
+
+msgid "item-form|Назад к <a [link_mylist]>списку своих объявлений</a>"
+msgstr ""
+
+msgid "item-form|Назад на <a [link_home]>главную страницу</a>"
+msgstr ""
+
+msgid "item-form|Не указан"
+msgstr ""
+
+msgid "item-form|Номер телефона"
+msgstr ""
+
+msgid "item-form|Обмен"
+msgstr ""
+
+msgid "item-form|Объявление еще неактивировано"
+msgstr ""
+
+msgid "item-form|Объявление ожидает проверки модератора"
+msgstr ""
+
+msgid "item-form|Объявления с фото получают в среднем в 3-5 раз больше откликов"
+msgstr ""
+
+msgid "item-form|Описание"
+msgstr ""
+
+msgid "item-form|Опубликовать объявление"
+msgstr ""
+
+msgid "item-form|Ошибка публикации объявления, обратитесь в службу поддержки."
+msgstr ""
+
+msgid "item-form|Перейти на просмотр <a [link_mylist]>списка своих объявлений</a>"
+msgstr ""
+
+msgid "item-form|Подождите..."
+msgstr ""
+
+msgid "item-form|После повторной проверки модератором объявление будет опубликовано"
+msgstr ""
+
+msgid "item-form|После проверки модератором ваше объявление будет опубликовано"
+msgstr ""
+
+msgid "item-form|Продвижение объявления"
+msgstr ""
+
+msgid "item-form|Происходит загрузка изображения, если вы покинете эту страницу, загрузка будет прекращена"
+msgstr ""
+
+msgid "item-form|Публикация объявления доступна только для авторизованных пользователей"
+msgstr ""
+
+msgid "item-form|Разместить как"
+msgstr ""
+
+msgid "item-form|Разместить объявление"
+msgstr ""
+
+msgid "item-form|Размещение объявления доступно только от активированного магазина"
+msgstr ""
+
+msgid "item-form|Размещение объявления доступно только при <a [link]>активированном магазине</a>."
+msgstr ""
+
+msgid "item-form|Район"
+msgstr ""
+
+msgid "item-form|Редактирование объявления"
+msgstr ""
+
+msgid "item-form|Редактировать объявление"
+msgstr ""
+
+msgid "item-form|Ссылка на видео"
+msgstr ""
+
+msgid "item-form|Теперь ваше объявление недоступно для просмотра"
+msgstr ""
+
+msgid "item-form|Теперь вы можете <a [link_view]>просмотреть ваше объявление</a> или <a [link_add]>добавить ещё одно</a>"
+msgstr ""
+
+msgid "item-form|Тип объявления"
+msgstr ""
+
+msgid "item-form|Торг возможен"
+msgstr ""
+
+msgid "item-form|Удалить фото"
+msgstr ""
+
+msgid "item-form|Удобная форма загрузки фотографий"
+msgstr ""
+
+msgid "item-form|Укажите номер телефона"
+msgstr ""
+
+msgid "item-form|Укажите улицу, район, номер дома и т.п."
+msgstr ""
+
+msgid "item-form|Укажите цену"
+msgstr ""
+
+msgid "item-form|Файл {file} имеет некорректный размер"
+msgstr ""
+
+msgid "item-form|Фотографии"
+msgstr ""
+
+msgid "item-form|Цена"
+msgstr ""
+
+msgid "item-form|Частное лицо"
+msgstr ""
+
+msgid "item-form|Я соглашаюсь с <a [link_agreement]>правилами использования сервиса</a>, а также с передачей и обработкой моих данных в [site_title]. Я подтверждаю своё совершеннолетие и ответственность за размещение объявления"
+msgstr ""
+
+msgid "pgn|Предыдущая"
+msgstr ""
+
+msgid "pgn|Следующая"
+msgstr ""
+
+msgid "pgn|по 15 на странице"
+msgstr ""
+
+msgid "pgn|по 25 на странице"
+msgstr ""
+
+msgid "pgn|по 50 на странице"
+msgstr ""
+
+msgid "pgn|показать все"
+msgstr ""
+
+msgid "search|Галереей"
+msgstr ""
+
+msgid "search|Магазины"
+msgstr ""
+
+msgid "search|На карте"
+msgstr ""
+
+msgid "search|Объявления"
+msgstr ""
+
+msgid "search|От дешевых к дорогим"
+msgstr ""
+
+msgid "search|От дорогих к дешевым"
+msgstr ""
+
+msgid "search|Поиск объявлений"
+msgstr ""
+
+msgid "search|Результаты поиска по запросу \"[query]\""
+msgstr ""
+
+msgid "search|Самые новые"
+msgstr ""
+
+msgid "search|Сортировка"
+msgstr ""
+
+msgid "search|Списком"
+msgstr ""
+
+msgid "search|больше карты"
+msgstr ""
+
+msgid "search|меньше карты"
+msgstr ""
+
+msgid "shops|+ ещё<span [attr]> телефон</span>"
+msgstr ""
+
+msgid "shops|<a [link]>[title]</a>"
+msgstr ""
+
+msgid "shops|Facebook"
+msgstr ""
+
+msgid "shops|Google+"
+msgstr ""
+
+msgid "shops|Yandex"
+msgstr ""
+
+msgid "shops|Адрес магазина"
+msgstr ""
+
+msgid "shops|Ваш email-адрес"
+msgstr ""
+
+msgid "shops|Ваш магазин был деактивирован модератором."
+msgstr ""
+
+msgid "shops|Ваш магазин был заблокирован модератором, по следующей причине:"
+msgstr ""
+
+msgid "shops|Ваш магазин был заблокирован модератором, причина:<br /><strong>[reason]</strong>"
+msgstr ""
+
+msgid "shops|Ваш телефон"
+msgstr ""
+
+msgid "shops|Ваша заявка была успешно отправлена"
+msgstr ""
+
+msgid "shops|Ваше имя"
+msgstr ""
+
+msgid "shops|Введите результат с картинки"
+msgstr ""
+
+msgid "shops|Вернуться к основным категориям"
+msgstr ""
+
+msgid "shops|Вернуться назад"
+msgstr ""
+
+msgid "shops|Вконтакте"
+msgstr ""
+
+msgid "shops|Возможность продвижение магазина будет доступна после его проверки модератором."
+msgstr ""
+
+msgid "shops|Все категории"
+msgstr ""
+
+msgid "shops|Все магазины"
+msgstr ""
+
+msgid "shops|Всего к оплате"
+msgstr ""
+
+msgid "shops|Вы успешно активировали услугу для магазина"
+msgstr ""
+
+msgid "shops|Вы успешно открыли магазин \"<a [link]>[title]</a>\"!"
+msgstr ""
+
+msgid "shops|Вы успешно открыли магазин \"<strong>[title]</strong>\"."
+msgstr ""
+
+msgid "shops|Выберите категорию"
+msgstr ""
+
+msgid "shops|Выберите категорию магазина"
+msgstr ""
+
+msgid "shops|Выберите способ оплаты"
+msgstr ""
+
+msgid "shops|Выберите услугу"
+msgstr ""
+
+msgid "shops|Выделение магазина<br /><small><a [link]>[title]</a></small>"
+msgstr ""
+
+msgid "shops|Город"
+msgstr ""
+
+msgid "shops|Город указан некорректно"
+msgstr ""
+
+msgid "shops|Для выяснения причины деактивации обратитесь к администратору."
+msgstr ""
+
+msgid "shops|Для выяснения причины обратитесь к администратору."
+msgstr ""
+
+msgid "shops|Для указанного магазина невозможно активировать данную услугу"
+msgstr ""
+
+msgid "shops|Допустимы только следующие типы файлов: {extensions}"
+msgstr ""
+
+msgid "shops|Другое"
+msgstr ""
+
+msgid "shops|Если вы являетесь представителем этого магазины вы можете получить доступ к управлению информацией о магазине и размещению объявлений от его имени <a [request_form_link]>подав заявку</a>."
+msgstr ""
+
+msgid "shops|Жалоба успешно принята"
+msgstr ""
+
+msgid "shops|Загрузить логотип"
+msgstr ""
+
+msgid "shops|Загрузка логотипа"
+msgstr ""
+
+msgid "shops|Загрузка, подождите..."
+msgstr ""
+
+msgid "shops|Закрепление магазина<br /><small><a [link]>[title]</a></small>"
+msgstr ""
+
+msgid "shops|Запрещенный товар/услуга"
+msgstr ""
+
+msgid "shops|Изменить информацию"
+msgstr ""
+
+msgid "shops|Категория"
+msgstr ""
+
+msgid "shops|Контактные данные"
+msgstr ""
+
+msgid "shops|Контакты"
+msgstr ""
+
+msgid "shops|Логотип"
+msgstr ""
+
+msgid "shops|Магазин был временно деактивирован модератором"
+msgstr ""
+
+msgid "shops|Магазин был заблокирован модератором по причине:<br /><b>[reason]</b>"
+msgstr ""
+
+msgid "shops|Магазин был заблокирован модератором, причина: [reason]"
+msgstr ""
+
+msgid "shops|Магазин был удален, либо ссылка указана некорректно"
+msgstr ""
+
+msgid "shops|Магазины"
+msgstr ""
+
+msgid "shops|Магазины с логотипом пользуются большим доверием"
+msgstr ""
+
+msgid "shops|Максимальный размер файла - [size]"
+msgstr ""
+
+msgid "shops|Мой мир"
+msgstr ""
+
+msgid "shops|На карте"
+msgstr ""
+
+msgid "shops|Название"
+msgstr ""
+
+msgid "shops|Название магазина слишком короткое"
+msgstr ""
+
+msgid "shops|Найти"
+msgstr ""
+
+msgid "shops|Написать сообщение"
+msgstr ""
+
+msgid "shops|Настройки успешно сохранены"
+msgstr ""
+
+msgid "shops|Неверная рубрика"
+msgstr ""
+
+msgid "shops|Неверный адрес"
+msgstr ""
+
+msgid "shops|Неудалось активировать пакет услуг"
+msgstr ""
+
+msgid "shops|Номер телефона"
+msgstr ""
+
+msgid "shops|Общая информация"
+msgstr ""
+
+msgid "shops|Объявления магазина"
+msgstr ""
+
+msgid "shops|Одноклассники"
+msgstr ""
+
+msgid "shops|Описание"
+msgstr ""
+
+msgid "shops|Опишите подробнее чем занимается ваш магазин"
+msgstr ""
+
+msgid "shops|Опишите причину подробнее"
+msgstr ""
+
+msgid "shops|Оставьте ваш комментарий"
+msgstr ""
+
+msgid "shops|Откройте свой магазин"
+msgstr ""
+
+msgid "shops|Открытие магазина"
+msgstr ""
+
+msgid "shops|Открытие магазина доступно только для авторизованных пользователей"
+msgstr ""
+
+msgid "shops|Открыть магазин"
+msgstr ""
+
+msgid "shops|Отправить жалобу"
+msgstr ""
+
+msgid "shops|Отправить заявку"
+msgstr ""
+
+msgid "shops|Отправить сообщение магазину [shop]"
+msgstr ""
+
+msgid "shops|Ошибка открытия магазина, обратитесь в службу поддержки."
+msgstr ""
+
+msgid "shops|Ошибка просмотра страницы магазина. Обратитесь к администратору"
+msgstr ""
+
+msgid "shops|Ошибка редактирования настроек магазина."
+msgstr ""
+
+msgid "shops|Ошибка формирования списка объявлений."
+msgstr ""
+
+msgid "shops|Пакет услуг \"[pack]\" <br /><small><a [link]>[title]</a></small>"
+msgstr ""
+
+msgid "shops|Поделиться с другом"
+msgstr ""
+
+msgid "shops|Подтверждение выбранной услуги"
+msgstr ""
+
+msgid "shops|Пожаловаться"
+msgstr ""
+
+msgid "shops|Поиск магазинов..."
+msgstr ""
+
+msgid "shops|Показать"
+msgstr ""
+
+msgid "shops|Показать контакты"
+msgstr ""
+
+msgid "shops|Показать на карте"
+msgstr ""
+
+msgid "shops|Показать объявления"
+msgstr ""
+
+msgid "shops|После проверки модератором ваш магазин будет активирован."
+msgstr ""
+
+msgid "shops|Продвижение магазина"
+msgstr ""
+
+msgid "shops|Продвинуть"
+msgstr ""
+
+msgid "shops|Продвинуть магазин"
+msgstr ""
+
+msgid "shops|Продолжить"
+msgstr ""
+
+msgid "shops|Происходит загрузка изоражения, если вы покинете эту страницу, загрузка будет прекращена"
+msgstr ""
+
+msgid "shops|Расскажите как вы связаны с данным магазином"
+msgstr ""
+
+msgid "shops|Расскажите как вы связаны с данным магазином немного подробнее"
+msgstr ""
+
+msgid "shops|Редактирование настроек магазина будет доступно<br />после активации вашего магазина модератором."
+msgstr ""
+
+msgid "shops|Результаты поиска по запросу \"[query]\""
+msgstr ""
+
+msgid "shops|Рекламировать"
+msgstr ""
+
+msgid "shops|Рекламируйте свой магазин"
+msgstr ""
+
+msgid "shops|Сообщения"
+msgstr ""
+
+msgid "shops|Сохранить"
+msgstr ""
+
+msgid "shops|Социальные сети"
+msgstr ""
+
+msgid "shops|Списком"
+msgstr ""
+
+msgid "shops|Список магазинов пустой"
+msgstr ""
+
+msgid "shops|Ссылка"
+msgstr ""
+
+msgid "shops|Ссылка на сайт"
+msgstr ""
+
+msgid "shops|Телефон"
+msgstr ""
+
+msgid "shops|Укажите ваш номер телефона"
+msgstr ""
+
+msgid "shops|Укажите ваше имя"
+msgstr ""
+
+msgid "shops|Укажите ваши контактные данные и мы с вами свяжемся"
+msgstr ""
+
+msgid "shops|Укажите категорию магазина"
+msgstr ""
+
+msgid "shops|Укажите название магазина"
+msgstr ""
+
+msgid "shops|Укажите причину"
+msgstr ""
+
+msgid "shops|Укажите причину жалобы"
+msgstr ""
+
+msgid "shops|Укажите причины, по которым вы считаете этот магазин некорректным"
+msgstr ""
+
+msgid "shops|Укажите регион деятельности магазина"
+msgstr ""
+
+msgid "shops|Услуга активирована до <b>[date]</b>"
+msgstr ""
+
+msgid "shops|Файл {file} имеет некорректный размер"
+msgstr ""
+
+msgid "shops|Файл {file} слишком большой, максимально допустимый размер {sizeLimit}"
+msgstr ""
+
+msgid "shops|бесплатно"
+msgstr ""
+
+msgid "shops|больше карты"
+msgstr ""
+
+msgid "shops|ещё социальная сеть"
+msgstr ""
+
+msgid "shops|магазин;магазина;магазинов"
+msgstr ""
+
+msgid "shops|меньше карты"
+msgstr ""
+
+msgid "shops|объявление;объявления;объявлений"
+msgstr ""
+
+msgid "shops|показать контакты"
+msgstr ""
+
+msgid "shops|удалить"
+msgstr ""
+
+msgid "svc|Добавить объявление"
+msgstr ""
+
+msgid "svc|Как продать быстрее?"
+msgstr ""
+
+msgid "svc|Магазин"
+msgstr ""
+
+msgid "svc|Мои объявления"
+msgstr ""
+
+msgid "svc|Неудалось активировать услугу"
+msgstr ""
+
+msgid "svc|Объявление будет опубликовано в прессе в ближайшее время"
+msgstr ""
+
+msgid "svc|Объявление находится на первой позиции, нет необходимости выполнять его поднятие"
+msgstr ""
+
+msgid "svc|Объявление уже опубликовано в прессе"
+msgstr ""
+
+msgid "svc|Объявления"
+msgstr ""
+
+msgid "svc|Ошибка пополнения счета, обратитесь к администрации"
+msgstr ""
+
+msgid "svc|Подайте новое объявление и сделайте его заметным"
+msgstr ""
+
+msgid "svc|Рекламируйте уже существующие объявления"
+msgstr ""
+
+msgid "svc|Сумма пополнения указана некорректно"
+msgstr ""
+
+msgid "users|E-mail адрес был успешно изменен"
+msgstr ""
+
+msgid "users|E-mail адрес не должен совпадать с текущим"
+msgstr ""
+
+msgid "users|E-mail адрес указан некорректно"
+msgstr ""
+
+msgid "users|E-mail или пароль указаны некорректно"
+msgstr ""
+
+msgid "users|Аккаунт владельца магазина был заблокирован по причине:<br /><b>[reason]</b>"
+msgstr ""
+
+msgid "users|Аккаунт пользователя был заблокирован по причине:<br /><b>[reason]</b>"
+msgstr ""
+
+msgid "users|Активация аккаунта"
+msgstr ""
+
+msgid "users|В доступе отказано по причине: [reason]"
+msgstr ""
+
+msgid "users|Ваш email-адрес"
+msgstr ""
+
+msgid "users|Ваш аккаунт был успешно удален"
+msgstr ""
+
+msgid "users|Ваш номер"
+msgstr ""
+
+msgid "users|Ваш пароль был успешно изменен."
+msgstr ""
+
+msgid "users|Ваш текущий email"
+msgstr ""
+
+msgid "users|Введите ваш email"
+msgstr ""
+
+msgid "users|Введите ваш пароль"
+msgstr ""
+
+msgid "users|Введите код"
+msgstr ""
+
+msgid "users|Введите код из sms"
+msgstr ""
+
+msgid "users|Введите новый пароль"
+msgstr ""
+
+msgid "users|Введите пароль"
+msgstr ""
+
+msgid "users|Введите пароль ещё раз"
+msgstr ""
+
+msgid "users|Введите результат с картинки"
+msgstr ""
+
+msgid "users|Введите электронную почту, которую вы указывали при регистрации"
+msgstr ""
+
+msgid "users|Войдите на сайт"
+msgstr ""
+
+msgid "users|Войдите на сайт с помощью электронной почты или через социальную сеть"
+msgstr ""
+
+msgid "users|Войдите через:"
+msgstr ""
+
+msgid "users|Войти на сайт"
+msgstr ""
+
+msgid "users|Восстановить пароль"
+msgstr ""
+
+msgid "users|Впервые на нашем сайте?"
+msgstr ""
+
+msgid "users|Вы забыли свой пароль?"
+msgstr ""
+
+msgid "users|Вы можете удалить свою учетную запись, если больше не планируете пользоваться сайтом"
+msgstr ""
+
+msgid "users|Вы уже зарегистрированы?"
+msgstr ""
+
+msgid "users|Вы успешно зарегистрировались!"
+msgstr ""
+
+msgid "users|Выслать код"
+msgstr ""
+
+msgid "users|Выслать код повторно"
+msgstr ""
+
+msgid "users|Выслать новый код подтверждения"
+msgstr ""
+
+msgid "users|Город"
+msgstr ""
+
+msgid "users|Гость"
+msgstr ""
+
+msgid "users|Данный аккаунт заблокирован по причине: [reason]"
+msgstr ""
+
+msgid "users|Данный аккаунт неактивирован, перейдите по ссылке отправленной вам в письме.<br /><a [link_resend]>Получить письмо повторно</a>"
+msgstr ""
+
+msgid "users|Данный аккаунт неактивирован. <a [link_activate]>Активировать</a>"
+msgstr ""
+
+msgid "users|Дата рождения указана некорректно"
+msgstr ""
+
+msgid "users|Для доступа в кабинет необходимо авторизоваться"
+msgstr ""
+
+msgid "users|Для завершения регистрации введите Вашу электронную почту"
+msgstr ""
+
+msgid "users|Для просмотра переписки необходимо <a [link_auth]>авторизоваться</a>."
+msgstr ""
+
+msgid "users|Для ускорение процесса авторизации вы можете использовать <br />свои аккаунты в социальных сетях"
+msgstr ""
+
+msgid "users|Допустимы только следующие типы файлов: {extensions}"
+msgstr ""
+
+msgid "users|Доступ заблокирован по причине: [reason]"
+msgstr ""
+
+msgid "users|Забыли пароль?"
+msgstr ""
+
+msgid "users|Завершить регистрацию"
+msgstr ""
+
+msgid "users|Загрузка фотографии"
+msgstr ""
+
+msgid "users|Зарегистрироваться"
+msgstr ""
+
+msgid "users|Зарегистрируйтесь"
+msgstr ""
+
+msgid "users|Зарегистрируйтесь на сайте с помощью электронной почты или через социальную сеть"
+msgstr ""
+
+msgid "users|Здравствуйте, <b>[name]</b>!"
+msgstr ""
+
+msgid "users|Избранные"
+msgstr ""
+
+msgid "users|Изменить"
+msgstr ""
+
+msgid "users|Изменить e-mail"
+msgstr ""
+
+msgid "users|Изменить email-адрес"
+msgstr ""
+
+msgid "users|Изменить номер"
+msgstr ""
+
+msgid "users|Изменить номер телефона"
+msgstr ""
+
+msgid "users|Изменить пароль"
+msgstr ""
+
+msgid "users|Импорт"
+msgstr ""
+
+msgid "users|Кабинет пользователя"
+msgstr ""
+
+msgid "users|Код активации: [code]"
+msgstr ""
+
+msgid "users|Код подтверждения"
+msgstr ""
+
+msgid "users|Код подтверждения был отправлен на указанный вами номер"
+msgstr ""
+
+msgid "users|Код подтверждения был отправлен на указанный номер телефона"
+msgstr ""
+
+msgid "users|Код подтверждения был успешно отправлен повторно"
+msgstr ""
+
+msgid "users|Код подтверждения указан некорректно"
+msgstr ""
+
+msgid "users|Контактное лицо"
+msgstr ""
+
+msgid "users|Контактные данные"
+msgstr ""
+
+msgid "users|Контакты"
+msgstr ""
+
+msgid "users|Магазин"
+msgstr ""
+
+msgid "users|На ваш электронный ящик были высланы инструкции по смене пароля."
+msgstr ""
+
+msgid "users|На номер [phone] отправлен код активации."
+msgstr ""
+
+msgid "users|На номер [phone] отправлен код подтверждения."
+msgstr ""
+
+msgid "users|На указанный Вами e-mail отправлено письмо."
+msgstr ""
+
+msgid "users|На этом регистрация будет завершена."
+msgstr ""
+
+msgid "users|Написать сообщение"
+msgstr ""
+
+msgid "users|Настройка уведомлений"
+msgstr ""
+
+msgid "users|Настройки"
+msgstr ""
+
+msgid "users|Настройки магазина"
+msgstr ""
+
+msgid "users|Настройки успешно сохранены"
+msgstr ""
+
+msgid "users|Не получили код подтверждения? Возможно ваш номер написан с ошибкой."
+msgstr ""
+
+msgid "users|Не получили письмо? <a [link_retry]>Отправить еще раз</a>"
+msgstr ""
+
+msgid "users|Не указан"
+msgstr ""
+
+msgid "users|Неправильно указан номер телефона"
+msgstr ""
+
+msgid "users|Новый email"
+msgstr ""
+
+msgid "users|Новый номер"
+msgstr ""
+
+msgid "users|Новый пароль"
+msgstr ""
+
+msgid "users|Новый пароль еще раз"
+msgstr ""
+
+msgid "users|Новый пароль не должен быть короче [symbols] символов"
+msgstr ""
+
+msgid "users|Новый пароль не должен совпадать с текущим"
+msgstr ""
+
+msgid "users|Номер телефона"
+msgstr ""
+
+msgid "users|Номер телефона был успешно изменен"
+msgstr ""
+
+msgid "users|Номер телефона указан некорректно"
+msgstr ""
+
+msgid "users|Объединить профили"
+msgstr ""
+
+msgid "users|Объявления"
+msgstr ""
+
+msgid "users|Объявления пользователя"
+msgstr ""
+
+msgid "users|Открыть магазин"
+msgstr ""
+
+msgid "users|Отмена"
+msgstr ""
+
+msgid "users|Отправить"
+msgstr ""
+
+msgid "users|Ошибка подтверждения пароля"
+msgstr ""
+
+msgid "users|Ошибка регистрации, обратитесь к администратору"
+msgstr ""
+
+msgid "users|Пароли должны совпадать"
+msgstr ""
+
+msgid "users|Пароль"
+msgstr ""
+
+msgid "users|Пароль был успешно изменен"
+msgstr ""
+
+msgid "users|Пароль не должен быть короче [min] символов"
+msgstr ""
+
+msgid "users|Письмо было успешно отправлено повторно"
+msgstr ""
+
+msgid "users|Письмо отправлено"
+msgstr ""
+
+msgid "users|Повторите пароль"
+msgstr ""
+
+msgid "users|Подтвердить"
+msgstr ""
+
+msgid "users|Подтверждение номера мобильного телефона"
+msgstr ""
+
+msgid "users|Подтверждение пароля указано неверно"
+msgstr ""
+
+msgid "users|Пожалуйста подтвердите, что Вы согласны с пользовательским соглашением"
+msgstr ""
+
+msgid "users|Пожалуйста, перейдите по ссылке из письма для подтверждения указанного электронного адреса."
+msgstr ""
+
+msgid "users|Получать рассылку о новостях [site_title]"
+msgstr ""
+
+msgid "users|Получать уведомления о новых комментариях на объявления"
+msgstr ""
+
+msgid "users|Получать уведомления о новых сообщениях"
+msgstr ""
+
+msgid "users|Пользователь был заблокирован по причине: [reason]"
+msgstr ""
+
+msgid "users|Пользователь с таким e-mail адресом уже зарегистрирован"
+msgstr ""
+
+msgid "users|Пользователь с таким e-mail адресом уже зарегистрирован."
+msgstr ""
+
+msgid "users|Пользователь с таким e-mail адресом уже зарегистрирован. <a [link_forgot]>Забыли пароль?</a>"
+msgstr ""
+
+msgid "users|Пользователь с таким номером телефона уже зарегистрирован"
+msgstr ""
+
+msgid "users|Пользователь с таким номером телефона уже зарегистрирован."
+msgstr ""
+
+msgid "users|Пользователь с таким номером телефона уже зарегистрирован. <a [link_forgot]>Забыли пароль?</a>"
+msgstr ""
+
+msgid "users|Прикрепить файл"
+msgstr ""
+
+msgid "users|Произошла ошибка авторизации, попробуйте обновить страницу и авторизоваться повторно"
+msgstr ""
+
+msgid "users|Происходит загрузка изоражения, если вы покинете эту страницу, загрузка будет прекращена"
+msgstr ""
+
+msgid "users|Просмотр переписки"
+msgstr ""
+
+msgid "users|Профили с личной фотографией пользуются большим доверием"
+msgstr ""
+
+msgid "users|Регистрация завершена"
+msgstr ""
+
+msgid "users|Редактировать"
+msgstr ""
+
+msgid "users|Результат с картинки"
+msgstr ""
+
+msgid "users|Результат с картинки указан некорректно"
+msgstr ""
+
+msgid "users|Связь с социальными сетями"
+msgstr ""
+
+msgid "users|Сервис временно недоступен, попробуйте чуть позже"
+msgstr ""
+
+msgid "users|Сообщение было успешно отправлено"
+msgstr ""
+
+msgid "users|Сообщение слишком короткое"
+msgstr ""
+
+msgid "users|Сообщения"
+msgstr ""
+
+msgid "users|Сохранить"
+msgstr ""
+
+msgid "users|Срок действия ключа активации истек."
+msgstr ""
+
+msgid "users|Срок действия ссылки восстановления пароля истек или ссылка некорректна, <a href=\"[link_fogot]\">повторите попытку</a>."
+msgstr ""
+
+msgid "users|Счёт"
+msgstr ""
+
+msgid "users|Текст вашего сообщения"
+msgstr ""
+
+msgid "users|Текущий пароль"
+msgstr ""
+
+msgid "users|Текущий пароль указан некорректно"
+msgstr ""
+
+msgid "users|Тел."
+msgstr ""
+
+msgid "users|Телефон"
+msgstr ""
+
+msgid "users|Теперь вы можете <a [link_home]>перейти на главную страницу</a> или <a [link_profile]>в настройки своего профиля</a>."
+msgstr ""
+
+msgid "users|Точный адрес"
+msgstr ""
+
+msgid "users|У вас уже есть профиль на [site_name]?"
+msgstr ""
+
+msgid "users|Удалить"
+msgstr ""
+
+msgid "users|Удалить учетную запись"
+msgstr ""
+
+msgid "users|Укажите новый пароль"
+msgstr ""
+
+msgid "users|Укажите пароль"
+msgstr ""
+
+msgid "users|Указанный e-mail в базе не найден"
+msgstr ""
+
+msgid "users|Файл {file} имеет некорректный размер"
+msgstr ""
+
+msgid "users|Файл {file} слишком большой, максимально допустимый размер {sizeLimit}"
+msgstr ""
+
+msgid "users|Фотография"
+msgstr ""
+
+msgid "users|Частные объявления"
+msgstr ""
+
+msgid "users|Электронная почта"
+msgstr ""
+
+msgid "users|Я соглашаюсь с <a href=\"[link_agreement]\" target=\"_blank\">правилами использования сервиса</a>, а также с передачей и обработкой моих данных."
+msgstr ""
+
+msgid "users|выход"
+msgstr ""
+
+msgid "users|загрузить фото"
+msgstr ""
+
+msgid "users|избранные"
+msgstr ""
+
+msgid "users|на сайте с [date]"
+msgstr ""
+
+msgid "users|настройки"
+msgstr ""
+
+msgid "users|объявления"
+msgstr ""
+
+msgid "users|показать контакты"
+msgstr ""
+
+msgid "users|сообщения"
+msgstr ""
+
+msgid "users|счет"
+msgstr ""
+
+msgid "users|частные объявления"
+msgstr ""
+
+msgid "view|ICQ"
+msgstr ""
+
+msgid "view|Skype"
+msgstr ""
+
+msgid "view|[date], [user], номер: [id], просмотры: [views]"
+msgstr ""
+
+msgid "view|[date], номер: [id], просмотры: [views]"
+msgstr ""
+
+msgid "view|[views_today] из них сегодня"
+msgstr ""
+
+msgid "view|[views_total] объявления"
+msgstr ""
+
+msgid "view|Адрес"
+msgstr ""
+
+msgid "view|Активировать"
+msgstr ""
+
+msgid "view|Все объявления автора"
+msgstr ""
+
+msgid "view|Все объявления магазина"
+msgstr ""
+
+msgid "view|Всего"
+msgstr ""
+
+msgid "view|Данное объявление находится на модерации"
+msgstr ""
+
+msgid "view|Добавлено: [date], номер: [id]"
+msgstr ""
+
+msgid "view|Другие похожие объявления"
+msgstr ""
+
+msgid "view|Закрыть"
+msgstr ""
+
+msgid "view|Изменить информацию"
+msgstr ""
+
+msgid "view|Количество просмотров"
+msgstr ""
+
+msgid "view|Контакты"
+msgstr ""
+
+msgid "view|Назад в Мои объявления"
+msgstr ""
+
+msgid "view|Написать автору"
+msgstr ""
+
+msgid "view|Написать сообщение"
+msgstr ""
+
+msgid "view|Объявление было удалено либо заблокировано модератором"
+msgstr ""
+
+msgid "view|Объявление еще неактивировано пользователем"
+msgstr ""
+
+msgid "view|Объявление заблокировано"
+msgstr ""
+
+msgid "view|Поделиться с другом"
+msgstr ""
+
+msgid "view|Пожаловаться"
+msgstr ""
+
+msgid "view|Показать"
+msgstr ""
+
+msgid "view|Показать контакты"
+msgstr ""
+
+msgid "view|Показать на карте"
+msgstr ""
+
+msgid "view|Понедельник,Вторник,Среда,Четверг,Пятница,Суббота,Воскресенье"
+msgstr ""
+
+msgid "view|После проверки оно будет вновь опубликовано"
+msgstr ""
+
+msgid "view|После проверки оно будет опубликовано"
+msgstr ""
+
+msgid "view|Посмотреть статистику"
+msgstr ""
+
+msgid "view|Причина блокировки:<br />[reason]"
+msgstr ""
+
+msgid "view|Продвинуть объявление"
+msgstr ""
+
+msgid "view|Продвиньте объявление"
+msgstr ""
+
+msgid "view|Просмотр объявления"
+msgstr ""
+
+msgid "view|Просмотров всего"
+msgstr ""
+
+msgid "view|Просмотров сегодня"
+msgstr ""
+
+msgid "view|Просмотры контактов"
+msgstr ""
+
+msgid "view|Просмотры объявления"
+msgstr ""
+
+msgid "view|Распечатать"
+msgstr ""
+
+msgid "view|Рекламировать"
+msgstr ""
+
+msgid "view|Свяжитесь с автором объявления"
+msgstr ""
+
+msgid "view|Следующее объявление"
+msgstr ""
+
+msgid "view|Снять с публикации"
+msgstr ""
+
+msgid "view|Сообщение слишком короткое"
+msgstr ""
+
+msgid "view|Сообщение;Сообщения;Сообщений"
+msgstr ""
+
+msgid "view|Статистика просмотров объявления за месяц"
+msgstr ""
+
+msgid "view|Тел"
+msgstr ""
+
+msgid "view|Тел."
+msgstr ""
+
+msgid "view|Удалить"
+msgstr ""
+
+msgid "view|Хотите, чтобы ваше <br /> объявление <br /> увидело больше людей?"
+msgstr ""
+
+msgid "view|Января,Февраля,Марта,Апреля,Мая,Июня,Июля,Августа,Сентября,Октября,Ноября,Декабря"
+msgstr ""
+
+msgid "view|изображение"
+msgstr ""
+
+msgid "view|метро [station]"
+msgstr ""
+
+msgid "view|на сайте с [date]"
+msgstr ""
+
+msgid "view|показать контакты"
+msgstr ""
+
+msgid "view|показать на карте"
+msgstr ""
+
+msgid "view|просмотр;просмотра;просмотров"
+msgstr ""
+
+msgid "view|район [district]"
+msgstr ""
+
+msgid "view|частное лицо"
+msgstr ""
+
+msgid "view|янв,фев,мар,апр,май,июн,июл,авг,сен,окт,ноя,дек"
+msgstr ""
+
+msgid "Введите название города"
+msgstr ""
+
+msgid "Введите результат с картинки"
+msgstr ""
+
+msgid "Вчера"
+msgstr ""
+
+msgid "Выбрать файл, до 10мб"
+msgstr ""
+
+msgid "Главная"
+msgstr ""
+
+msgid "Заполните все отмеченные поля"
+msgstr ""
+
+msgid "Карта сайта"
+msgstr ""
+
+msgid "Наверх"
+msgstr ""
+
+msgid "Отмена"
+msgstr ""
+
+msgid "Отправить"
+msgstr ""
+
+msgid "Ошибка"
+msgstr ""
+
+msgid "Перейти на страницу"
+msgstr ""
+
+msgid "Повторите попытку через несколько секунд"
+msgstr ""
+
+msgid "Подождите..."
+msgstr ""
+
+msgid "Предыдущая"
+msgstr ""
+
+msgid "При заполнении формы возникли следующие ошибки:"
+msgstr ""
+
+msgid "Результат с картинки указан некорректно"
+msgstr ""
+
+msgid "Сайт временно отключен"
+msgstr ""
+
+msgid "Сегодня"
+msgstr ""
+
+msgid "Следующая"
+msgstr ""
+
+msgid "Сообщение было успешно отправлено"
+msgstr ""
+
+msgid "Файл"
+msgstr ""
+
+msgid "Язык:"
+msgstr ""
+
+msgid "вчера"
+msgstr ""
+
+msgid "день;дня;дней"
+msgstr ""
+
+msgid "знак;знака;знаков"
+msgstr ""
+
+msgid "об-е;об-я;об-й"
+msgstr ""
+
+msgid "объявление;объявления;объявлений"
+msgstr ""
+
+msgid "отмена"
+msgstr ""
+
+msgid "сегодня"
+msgstr ""
+

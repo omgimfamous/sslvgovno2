@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE 
+cross-domain-policy SYSTEM "http://www.adobe.com/devnet/articles/crossdomain_policy_file_spec.html">
+<cross-domain-policy>
+  <allow-access-from domain="do2dev.tamaranga.com" to-ports="80" />
+  <allow-access-from domain="*.do2dev.tamaranga.com" to-ports="80" />
+</cross-domain-policy>

@@ -1,0 +1,84 @@
+Инструкция установки на сервер или хостинг:
+При создании www.domen.ru указываем корневую дерикторию располажения файлов /public_html
+тоесть: domen.ru/public_html.
+закачиваем архив с движком в дкрикторию domen.ru и расспаковываем сюда же.
+Устанавливаем базу данных, заливаем в базу install_ru_uk.sql и install.regions.geoip.sql.
+Прописываем доступы в config/sys.php там же настраиваем остальное. подробнее в README.TXT и FAQ.TXT
+Далее прописываем крон задачи в планировщик.
+
+=============================================
+= 2 подробных варианта настройки крона:
+если не один не подходит тогда мучаем хостеров! ))
+/path/to/ заменяем на /var/www/user/data/www/example.com/    где user заменяем на ваше имя пользователя
+http://example.com заменяем на ваш домен.
+
+1) баннеры: проверка лимитов/периода показов
+0 * * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=banners ev=cron
+0 * * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=banners&ev=cron'
+
+2) объявления: снятие с публикации, пересчет счетчиков ОБ в категориях(типах)
+*/10 * * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=bbs ev=itemsCronStatus
+*/10 * * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=bbs&ev=itemsCronStatus'
+
+3) объявления: обнуление счетчиков просмотров ОБ за сегодня
+0 0 * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=bbs ev=itemsCronViews
+0 0 * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=bbs&ev=itemsCronViews'
+
+4) рассылка писем
+*/2 * * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=sendmail ev=cronMassend
+*/2 * * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=sendmail&ev=cronMassend'
+
+5) магазины: пересчет счетчиков магазинов
+*/15 * * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=shops ev=shopsCronCounters
+*/15 * * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=shops&ev=shopsCronCounters'
+==========================================================================================
+6) услуги: деактивация услуг (объявления, магазины)
+0 0 * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=svc ev=cron
+0 0 * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=svc&ev=cron'
+  6.1) если не сработает ( услуги: деактивация услуг (объявления, магазины) ) пробуем так:
+0 0 * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=svc ev=cronSvc
+0 0 * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=svc&ev=cronSvc'
+==========================================================================================
+7) пользователи: удаление неактивированных аккаунтов
+10 0 * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=users ev=cron
+10 0 * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=users&ev=cron'
+
+8) обновление структуры в файле Sitemap.xml
+0 0 * * *    /usr/bin/php -q /path/to/public_html/index.php bff=cron s=site ev=cronSitemapXML
+0 0 * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=site&ev=cronSitemapXML'
+
+9) импорт обьявлений
+*/10 * * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=bbs ev=itemsCronImport
+*/10 * * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=bbs&ev=itemsCronImport'
+
+
+=============================================
+= краткий вариант (1):
+0 * * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=banners ev=cron
+*/10 * * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=bbs ev=itemsCronStatus
+0 0 * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=bbs ev=itemsCronViews
+*/2 * * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=sendmail ev=cronMassend
+*/15 * * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=shops ev=shopsCronCounters
+==========================================================================================
+0 0 * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=svc ev=cron
+0 0 * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=svc ev=cronsvc
+==========================================================================================
+10 0 * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=users ev=cron
+0 0 * * *    /usr/bin/php -q /path/to/public_html/index.php bff=cron s=site ev=cronSitemapXML
+*/10 * * * * /usr/bin/php -q /path/to/public_html/index.php bff=cron s=bbs ev=itemsCronImport
+
+
+=============================================
+= краткий вариант (2):
+0 * * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=banners&ev=cron'
+*/10 * * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=bbs&ev=itemsCronStatus'
+0 0 * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=bff&ev=itemsCronViews'
+*/2 * * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=sendmail&ev=cronMassend'
+*/15 * * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=shops&ev=shopsCronCounters'
+==========================================================================================
+0 0 * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=svc&ev=cron'
+0 0 * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=svc&ev=cronSvc'
+==========================================================================================
+10 0 * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=users&ev=cron'
+0 0 * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=site&ev=cronSitemapXML'
+*/10 * * * * /usr/bin/wget -o /dev/null 'http://example.com/index.php?bff=cron&s=bbs&ev=itemsCronImport'

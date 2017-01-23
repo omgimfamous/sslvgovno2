@@ -1,0 +1,4 @@
+a:2:{s:7:"subject";a:3:{s:2:"ru";s:36:"Интересный магазин!";s:2:"uk";s:36:"Интересный магазин!";s:2:"lv";s:36:"Интересный магазин!";}s:4:"body";a:3:{s:2:"ru";s:60:"Вот ссылка:
+<a href="{shop_link}">{shop_title}</a>";s:2:"uk";s:60:"Вот ссылка:
+<a href="{shop_link}">{shop_title}</a>";s:2:"lv";s:60:"Вот ссылка:
+<a href="{shop_link}">{shop_title}</a>";}}
